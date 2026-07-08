@@ -1,7 +1,7 @@
 /**
  * ============================================================
  * KrishiMitra AI
- * FormUtils.gs
+ * FormUtils.js
  *
  * Common helper functions used across all Google Forms
  * ============================================================

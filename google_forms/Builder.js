@@ -1,7 +1,7 @@
 /**
  * ============================================================
  * KrishiMitra AI
- * Builder.gs
+ * Builder.js
  *
  * Dynamic Google Form Builder
  * Version : 1.0
