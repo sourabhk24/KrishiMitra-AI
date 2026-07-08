@@ -1,7 +1,7 @@
 /**
  * ============================================================
  * KrishiMitra AI
- * Constants.gs
+ * constants.js
  *
  * Common constants used across all Google Forms
  * ============================================================

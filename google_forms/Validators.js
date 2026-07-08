@@ -1,7 +1,7 @@
 /**
  * ==========================================================
  * KrishiMitra AI
- * Validators.gs
+ * Validators.js
  *
  * Common validation helpers for Google Forms
  * ==========================================================
