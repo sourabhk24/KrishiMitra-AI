@@ -40,7 +40,7 @@ Empower every farmer with affordable AI technology to improve crop health, incre
 | Storage | Firebase Storage |
 | AI | TensorFlow / PyTorch |
 | IoT | Raspberry Pi + MQTT |
-| Dashboard | React.js |
+| Dashboard | Vue.js |
 
 ---
 
@@ -64,26 +64,12 @@ presentation/
 
 ## 📅 Development Roadmap
 
-### Sprint 1
-- Documentation
-- Database Design
-- Google Forms
+Canonical roadmap: [docs/Roadmap.md](docs/Roadmap.md) — rationale and
+architecture decisions in [docs/architecture-review.md](docs/architecture-review.md).
 
-### Sprint 2
-- Backend APIs
-- PostgreSQL Database
-
-### Sprint 3
-- Raspberry Pi Prototype
-
-### Sprint 4
-- Flutter Application
-
-### Sprint 5
-- AI Model Development
-
-### Sprint 6
-- Deployment & Testing
+**P0 Research** *(current)* → **P1 Sensor-free MVP** → **P2 Backend + ingest**
+→ **P3 Dataset collection** → **P4 AI models** → **P5 Sensor hardware**
+→ **P6 Mobile app** → **P7 Field testing**
 
 ---
 
